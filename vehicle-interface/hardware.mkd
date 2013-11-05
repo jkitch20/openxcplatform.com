@@ -52,12 +52,12 @@ vehicle manufacturer.
 
 <h2>Obtaining a Vehicle Interface</h2>
 
-There are two ways you can obtain a vehicle interface. 
+There are two ways you can obtain a vehicle interface.
 
 * Purchase a Pre-Made VI: The <a href="#ford-reference-design">Ford Reference VI</a>
 and <a href="#cross-chasm">CrossChasm C5 Vehicle Interface</a> are both available for purchase.
 
-* <a href="#diy-chipkit">Build one yourself!</a> The original OpeNXC design
+* <a href="#diy-chipkit">Build one yourself!</a> The original OpenXC design
 was built on a chipKIT development board and is still fully supported. The
 design is open-source and posted below, along with instructions on how to assemble
 all the required parts.
@@ -120,8 +120,8 @@ starting at around $110, with no soldering required.
 The chipKIT VI can connect to up to 2 CAN buses simultaneously, and you can
 choose from any of [CAN1, CAN2-1 or CAN2-2](#obd-pins).
 
-* [chipKIT Binary Firmware Programming Instructions](http://vi-firmware.openxcplatform.com/en/latest/platforms/max32.html#flashing-a-pre-compiled-firmware)
-  * First, follow the [quick-start guide](http://vi-firmware.openxcplatform.com/en/latest/installation/binary.html#quick-start) to download the code.
+* [chipKIT Binary Firmware Programming
+  Instructions](http://chipkit-vi.openxcplatform.com/firmware/programming.html)
 * [chipKIT-based OpenXC Vehicle Interface
 Documentation](http://chipkit-vi.openxcplatform.com/)
 
